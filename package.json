@@ -1,0 +1,35 @@
+{
+  "name": "@karyakarsa/kollekt",
+  "version": "0.0.1",
+  "description": "Transforming response to match KaryaKarsa REST API guideline",
+  "main": "dist/index.js",
+  "typings": "dist/index",
+  "scripts": {
+    "build": "tsc",
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karyakarsa/kollekt.git"
+  },
+  "author": "Dimas Wibowo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karyakarsa/kollekt/issues"
+  },
+  "homepage": "https://github.com/karyakarsa/kollekt#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "@babel/preset-typescript": "^7.18.6",
+    "@types/express": "^4.17.13",
+    "@types/jest": "^28.1.3",
+    "@types/supertest": "^2.0.12",
+    "babel-jest": "^28.1.2",
+    "express": "^4.18.1",
+    "jest": "^28.1.2",
+    "supertest": "^6.2.3",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {}
+}
