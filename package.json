@@ -1,7 +1,7 @@
 {
   "name": "@karyakarsa/kollekt",
   "version": "0.0.1",
-  "description": "Transforming response to match KaryaKarsa REST API guideline",
+  "description": "Transforming response to match Kollekt REST API guideline",
   "main": "dist/index.js",
   "typings": "dist/index",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karyakarsa/kollekt.git"
+    "url": "git+https://github.com/daemswibowo/kollekt.git"
   },
   "author": "daemswibowo <daemswibowo@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/karyakarsa/kollekt/issues"
+    "url": "https://github.com/daemswibowo/kollekt/issues"
   },
-  "homepage": "https://github.com/karyakarsa/kollekt#readme",
+  "homepage": "https://github.com/daemswibowo/kollekt#readme",
   "devDependencies": {
     "@babel/core": "^7.18.6",
     "@babel/preset-env": "^7.18.6",
