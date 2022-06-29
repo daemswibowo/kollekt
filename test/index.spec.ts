@@ -1,6 +1,6 @@
 import express, {Request, Response} from 'express';
-import restMiddleware from "../../src/middlewares/rest";
 import supertest from "supertest";
+import {restMiddleware} from "../src";
 
 const app = express()
   .get('/', restMiddleware, (req: Request, res: Response) => {
