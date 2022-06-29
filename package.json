@@ -1,5 +1,5 @@
 {
-  "name": "@karyakarsa/kollekt",
+  "name": "kollekt-express",
   "version": "0.0.1",
   "description": "Transforming response to match Kollekt REST API guideline",
   "main": "dist/index.js",
