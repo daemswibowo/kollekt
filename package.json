@@ -1,6 +1,6 @@
 {
   "name": "kollekt-express",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transforming response to match Kollekt REST API guideline",
   "main": "dist/index.js",
   "typings": "dist/index",
